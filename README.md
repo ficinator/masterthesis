@@ -1,0 +1,2 @@
+# masterthesis
+piseme diplomku
